@@ -43,7 +43,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeguewon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
         <br/>
         <a href="https://solved.ac/guewon12">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gue">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=이#####">
         </a>
     </div> 
 </div>
